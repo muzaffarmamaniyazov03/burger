@@ -1,0 +1,173 @@
+@media(max-width:1875px) {
+  .left{
+    width: 700px;
+  }
+  .right{
+    width: 500px;
+}
+.bagraund{
+    width: 100%;
+    background-position: center;
+}
+}
+@media(max-width:1550px) {
+.left{
+  width: 600px;
+}
+.right{
+  width: 400px;
+}
+.quyosh{
+  width: 80px;
+  height: 80px;
+}
+.qush__1{
+  width: 65px;
+}
+.qush__2{
+  width: 40px;
+}
+.qush__3{
+  width: 25px;
+}
+.boat{
+  width: 200px;
+}
+.bagraund{
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+}
+}
+@media(max-width:1200px) {
+  .left{
+    width: 450px;
+  }
+  .right{
+    width: 250px;
+  }
+  .quyosh{
+    width: 70px;
+    height: 70px;
+    margin: 70px;
+  }
+  .qush__1{
+    width: 55px;
+    margin-left: 50px;
+    margin-top: 70px;
+  }
+  .qush__2{
+    width: 30px;
+    margin-left: 50px;
+    margin-top: 70px;
+  }
+  .qush__3{
+    width: 20px;
+    margin-left: 50px;
+    margin-top: 70px;
+  }
+  .boat{
+    width: 180px;
+  }
+  
+}
+@media(max-width:850px) {
+  .left{
+    width: 350px;
+  }
+  .right{
+    width: 200px;
+  }
+  .quyosh{
+    width: 55px;
+    height: 55px;
+    margin: 100px;
+  }
+  .qush__1{
+    width: 45px;
+    margin-left: 80px;
+    margin-top: 100px;
+  }
+  .qush__2{
+    width: 30px;
+    margin-left: 80px;
+    margin-top: 100px;
+  }
+  .qush__3{
+    width: 20px;
+    margin-left: 80px;
+    margin-top: 100px;
+  }
+  .boat{
+    width: 150px;
+  }
+  
+}
+@media(max-width:700px) {
+  .left{
+    width: 280px;
+  }
+  .right{
+    width: 180px;
+  }
+  .quyosh{
+    width: 50px;
+    height: 50px;
+    margin: 120px;
+  }
+  .qush__1{
+    width: 40px;
+    margin-left: 100px;
+    margin-top: 120px;
+  }
+  .qush__2{
+    width: 30px;
+    margin-left: 100px;
+    margin-top: 120px;
+  }
+  .qush__3{
+    width: 15px;
+    margin-left: 100px;
+    margin-top: 120px;
+  }
+  .boat{
+    width: 120px;
+  }
+  
+}
+@media(max-width:550px) {
+  .left{
+    width: 200px;
+    margin-top: 10px;
+  }
+  .right{
+    width: 200px;
+padding-left: 100px;
+  }
+  .quyosh{
+    width: 50px;
+    height: 50px;
+    margin: 130px;
+  }
+  .qush__1{
+    width: 40px;
+    margin-top: 130px;
+    
+  }
+  .qush__2{
+    width: 30px;
+    margin-top: 130px;
+    position: absolute;
+    right: 150px;
+  }
+  .qush__3{
+    width: 15px;
+    margin-top: 130px;
+  }
+  .boat{
+    width: 80px;
+  }
+ .bagraund{
+  
+ }
+}
